@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Walk Outside
+- [ ] Go To The Store
+- [ ] Play Among Us
